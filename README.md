@@ -4,4 +4,3 @@ Application for gaming community. Storing data about in game items, calculating 
 * c#
 * WPF
 * xaml
-* sqlite
